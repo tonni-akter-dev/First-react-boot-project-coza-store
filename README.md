@@ -1,11 +1,12 @@
-# Getting Started with Create React App
+#COZA BAZAR FIRST REACT PROJECT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://react-bootstrap-coza-store.netlify.app/).
 
 ## Available Scripts
 
-In the project directory, you can run:
-
+*HTML-5
+*CSS-3
+*REACT JS[React Bootstrap]
 ### `npm start`
 
 Runs the app in the development mode.\
